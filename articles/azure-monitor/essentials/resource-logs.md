@@ -39,7 +39,7 @@ In this mode, individual tables in the selected workspace are created for each c
 
 All Azure services will eventually migrate to the resource-specific mode.
 
-The preceding example creates three tables:
+The [Azure Diagnostic mode example below](#azure-diagnostic-mode) would migrate to three separate tables in the new resource-specific mode as follows:
 
 - Table `Service1AuditLogs`
 
